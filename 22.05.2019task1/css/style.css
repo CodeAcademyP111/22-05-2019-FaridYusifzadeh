@@ -1,0 +1,18 @@
+#first{
+    background-color: #84E484;
+    width: 600px;
+    height: 600px;
+    position: relative;  
+}
+.ball {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+ img{
+     position: absolute;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    
+}
